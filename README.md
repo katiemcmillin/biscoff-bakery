@@ -1,3 +1,7 @@
+####Biscoff Bakery
+
+![image](https://i.ytimg.com/vi/CIGk1sgCfSg/maxresdefault.jpg)
+
 A new bakery specializing in Biscoff-inspired sweets is opening up soon and has asked you to help get their website started. They've given you some data to work with, but it's up to you to add some view layers to the app and add in some functionality that will allow the owners to add new baked goods when needed. Let's get started!
 
 ### **Learning Objectives**
