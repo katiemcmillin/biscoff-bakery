@@ -16,9 +16,9 @@ A new bakery specializing in Biscoff-inspired sweets is opening up soon and has 
 
 ## **Getting Started**
 
-You can find the starter code for this morning's lab as a downloadable asset!
+Fork and clone this repository
 
-**[Click here](https://github.com/katiemcmillin/biscoff-bakery/raw/main/biscoff-bakery.zip)** to download it! -- You'll perform your work in that folder after you "unzip" it!
+You can find the starter code for this exercise inside the cloned repository.
 
 ### **Provided in the starter code**
 
