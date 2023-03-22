@@ -3,6 +3,8 @@ const app = express();
 const PORT = 4000;
 const bakedGoods = require("./models/bakedGoods")
 
+app.set('view engine', 'ejs');
+
 app.get('/bakedGoods', (req, res) => {
     res.send(bakedGoods)
 })
